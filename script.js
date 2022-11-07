@@ -13,4 +13,4 @@ rates.forEach((rate) => {
     rate.addEventListener("click", () => {
         rating.innerHTML = rate.innerHTML
     })
-}) 
+})

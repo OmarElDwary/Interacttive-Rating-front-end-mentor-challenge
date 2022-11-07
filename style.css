@@ -25,6 +25,8 @@ ul{
     background-color: hsl(213, 19%, 18%);
     padding: 1.5rem;
     border-radius: 0.6rem;
+    width: 500px;
+    height: 400px;
 }
 .main-container img {
     background-color: hsl(213, 20%, 22%);
